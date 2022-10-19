@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/drewnilsson/.nuget/packages/": {}
+    "C:\\Users\\starf\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAOddOrEven/aNilssonMiniCh#6/aNilssonMiniCh#6.csproj",
+      "projectUniqueName": "C:\\Users\\starf\\OneDrive\\Documents\\GitRepository\\aNilssonMiniCh-6\\aNilssonMiniCh#6.csproj",
       "projectName": "aNilssonMiniCh#6",
-      "projectPath": "/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAOddOrEven/aNilssonMiniCh#6/aNilssonMiniCh#6.csproj",
-      "packagesPath": "/Users/drewnilsson/.nuget/packages/",
-      "outputPath": "/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAOddOrEven/aNilssonMiniCh#6/obj/",
+      "projectPath": "C:\\Users\\starf\\OneDrive\\Documents\\GitRepository\\aNilssonMiniCh-6\\aNilssonMiniCh#6.csproj",
+      "packagesPath": "C:\\Users\\starf\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\starf\\OneDrive\\Documents\\GitRepository\\aNilssonMiniCh-6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/drewnilsson/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\starf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
